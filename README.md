@@ -36,27 +36,27 @@ Clique no logotipo da linguagem para conferir soluções listadas abaixo:
             <tr>
                 <td>Mesada do Sobrinho</td>
                 <td><a href="https://github.com/anmorhy/DESAFIOS-DIO/tree/master/Desafios/Java/Desafio%20Java%20-%20Orange%20Tech%20BackEnd/Mesada%20do%20Sobrinho">Código</a></td>
-                <td align="center">⚠️</td>
+                <td align="center">✔️</td>
             </tr>    
             <tr>
                 <td>Download de Pacotes</td>
                 <td><a href="https://github.com/anmorhy/DESAFIOS-DIO/tree/master/Desafios/Java/Desafio%20Java%20-%20Orange%20Tech%20BackEnd/Download%20de%20Pacotes" >Código</a></td>
-                <td align="center">⚠️</td>
+                <td align="center">✔️</td>
             </tr> 
             <tr>
                 <td>Leitura da Gertrudes</td>
                 <td><a href="https://github.com/anmorhy/DESAFIOS-DIO/tree/master/Desafios/Java/Desafio%20Java%20-%20Orange%20Tech%20BackEnd/Leitura%20de%20Gertrudes">Código</a></td>
-                <td align="center">⚠️</td>
+                <td align="center">✔️</td>
             </tr>       
             <tr>
                 <td>Lojinha de Doces</td>
                 <td><a href="https://github.com/anmorhy/DESAFIOS-DIO/tree/master/Desafios/Java/Desafio%20Java%20-%20Orange%20Tech%20BackEnd/Lojinha%20de%20Doces">Código</a></td>
-                <td align="center">⚠️</td>
+                <td align="center">✔️</td>
             </tr>  
             <tr>
                 <td>Industria da Multa</td>
                 <td><a href="https://github.com/anmorhy/DESAFIOS-DIO/tree/master/Desafios/Java/Desafio%20Java%20-%20Orange%20Tech%20BackEnd/Industria%20da%20Multa">Código</a></td>
-                <td align="center">⚠️</td>
+                <td align="center">✔️</td>
             </tr>                  
         </table>  
     </div>
