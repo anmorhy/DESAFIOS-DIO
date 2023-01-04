@@ -5,6 +5,8 @@
   <img src="./assets/logo_dio.png" alt="DIO" tittle="Digital Innovation One" width="50%">
 </p>
 
+-------
+
 <p align="center">
   <!-- Java -->
   <a href="https://github.com/anmorhy/DESAFIOS-DIO/tree/master/Desafios/Java">
