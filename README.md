@@ -22,7 +22,7 @@ Clique no logotipo da linguagem para conferir soluções listadas abaixo:
     <summary><strong>Java</strong></summary>
     <br />
     <div align="left">
-        <!-- Desafio Aritmético em Java -->
+        <!-- Desafio em Java -->
         <table border=1>
             <tr>
                 <th colspan="3"><a href="https://github.com/anmorhy/DESAFIOS-DIO/tree/master/Desafios/Java/Desafio%20Java%20-%20Orange%20Tech%20BackEnd">Desafio Java - Orange Tech BackEnd</a></th>
